@@ -1,0 +1,10 @@
+v2j5Dg7BaqMAa6hYJhe4
+
+developer asks admin a machine,
+then admin create and give to developer,
+devoleper will devolep the code and the code we need to test,
+he will give code to admin, and admin team hosts the code and checks
+
+to to solve the issue they started beanstalk in aws
+
+we need to create webapp
